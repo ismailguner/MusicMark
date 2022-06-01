@@ -1,0 +1,37 @@
+.nav-item{
+    font-size: 25px;
+}
+.content{
+   text-align: center;
+   background-color: rgb(221, 216, 216);
+   height: 1340px;
+}
+.header{
+    color: rgb(100, 5, 5);
+   
+    margin-top: 20px;
+    padding: 20px;
+}
+.header h1{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content-text p{
+    font-size: 19px;
+}
+.content-text h2{
+    color: chocolate;
+}
+.content-text li{
+    list-style-type: none;
+   
+
+}
+.contenthakkimizda{
+    margin-top: 35px;
+}
+.contenthakkimizda h1{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
